@@ -1,0 +1,3 @@
+.deploy_heroku/**
+public/**
+node_modules/**
